@@ -2,8 +2,7 @@ cask "unbelievable-jungle" do
   version "2.1.0"
   sha256 "c779bc2196dc08aabff9d4d5ec81f1b3bbd4a1c720d2bd51ec523d1bc309a00f"
 
-  url "https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v#{version}/UnbelievableJungle-#{version}.zip",
-      verified: "github.com/unbelievable-digital/unbelievable-jungle-releases/"
+  url "https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v#{version}/UnbelievableJungle-#{version}.zip"
   name "Unbelievable Jungle"
   desc "Desktop pet cat, dog or monkey that lives on top of your windows"
   homepage "https://jungle.unbelievable.digital/"
