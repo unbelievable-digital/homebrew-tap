@@ -1,6 +1,6 @@
 cask "unbelievable-jungle" do
-  version "2.4.0"
-  sha256 "563655e781d0bd3f68daa9c4bf990f1160766c4a29f0edcc2b9ac62898abb3ab"
+  version "2.4.1"
+  sha256 "14d7f5bc3458a8c26259a51d136014052f405068c08dff76d2e347ec0ef6c23b"
 
   url "https://github.com/unbelievable-digital/unbelievable-jungle-releases/releases/download/v#{version}/UnbelievableJungle-#{version}.zip"
   name "Unbelievable Jungle"
